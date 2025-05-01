@@ -132,6 +132,12 @@ DB_HOST=<database_hostname>
 
 ---
 
+Landing Page
+<img width="1437" alt="Screenshot 2025-05-01 at 5 46 39 pm" src="https://github.com/user-attachments/assets/c0b15dd6-a396-468f-8a80-e6ac22e3f66e" />
+
+
+---
+
 ## Project Structure
 
 ```
